@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47626" started-at="2019-02-14T01:39:19Z" finished-at="2019-02-14T01:40:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47626" started-at="2019-02-14T01:39:19Z" finished-at="2019-02-14T01:40:06Z">
+      <class name="com.training.functional.test.CYTC_085MemberPaymentSearchTestNegative">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.functional.test.CYTC_085MemberPaymentSearchTestNegative@3e6fa38a]" name="setUpBeforeClass" is-config="true" duration-ms="5048" started-at="2019-02-14T01:39:19Z" finished-at="2019-02-14T01:39:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="validAdminLoginTest()[pri:0, instance:com.training.functional.test.CYTC_085MemberPaymentSearchTestNegative@3e6fa38a]" name="validAdminLoginTest" duration-ms="1549" started-at="2019-02-14T01:39:24Z" finished-at="2019-02-14T01:39:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validAdminLoginTest -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.training.functional.test.CYTC_085MemberPaymentSearchTestNegative@3e6fa38a]" name="tearDown" is-config="true" duration-ms="5005" started-at="2019-02-14T01:39:25Z" finished-at="2019-02-14T01:39:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validAdminLoginTest status=SUCCESS method=CYTC_085MemberPaymentSearchTestNegative.validAdminLoginTest()[pri:0, instance:com.training.functional.test.CYTC_085MemberPaymentSearchTestNegative@3e6fa38a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="validMessageTest()[pri:1, instance:com.training.functional.test.CYTC_085MemberPaymentSearchTestNegative@3e6fa38a]" name="validMessageTest" duration-ms="5564" started-at="2019-02-14T01:39:30Z" finished-at="2019-02-14T01:39:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validMessageTest -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.training.functional.test.CYTC_085MemberPaymentSearchTestNegative@3e6fa38a]" name="tearDown" is-config="true" duration-ms="5000" started-at="2019-02-14T01:39:36Z" finished-at="2019-02-14T01:39:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validMessageTest status=SUCCESS method=CYTC_085MemberPaymentSearchTestNegative.validMessageTest()[pri:1, instance:com.training.functional.test.CYTC_085MemberPaymentSearchTestNegative@3e6fa38a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="validMessageLinkTest()[pri:2, instance:com.training.functional.test.CYTC_085MemberPaymentSearchTestNegative@3e6fa38a]" name="validMessageLinkTest" duration-ms="859" started-at="2019-02-14T01:39:41Z" finished-at="2019-02-14T01:39:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validMessageLinkTest -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.training.functional.test.CYTC_085MemberPaymentSearchTestNegative@3e6fa38a]" name="tearDown" is-config="true" duration-ms="5001" started-at="2019-02-14T01:39:42Z" finished-at="2019-02-14T01:39:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validMessageLinkTest status=SUCCESS method=CYTC_085MemberPaymentSearchTestNegative.validMessageLinkTest()[pri:2, instance:com.training.functional.test.CYTC_085MemberPaymentSearchTestNegative@3e6fa38a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="validMessagedroupdownselectionTest()[pri:3, instance:com.training.functional.test.CYTC_085MemberPaymentSearchTestNegative@3e6fa38a]" name="validMessagedroupdownselectionTest" duration-ms="2279" started-at="2019-02-14T01:39:47Z" finished-at="2019-02-14T01:39:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validMessagedroupdownselectionTest -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.training.functional.test.CYTC_085MemberPaymentSearchTestNegative@3e6fa38a]" name="tearDown" is-config="true" duration-ms="5009" started-at="2019-02-14T01:39:49Z" finished-at="2019-02-14T01:39:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validMessagedroupdownselectionTest status=SUCCESS method=CYTC_085MemberPaymentSearchTestNegative.validMessagedroupdownselectionTest()[pri:3, instance:com.training.functional.test.CYTC_085MemberPaymentSearchTestNegative@3e6fa38a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="validNewMessageTest()[pri:4, instance:com.training.functional.test.CYTC_085MemberPaymentSearchTestNegative@3e6fa38a]" name="validNewMessageTest" duration-ms="781" started-at="2019-02-14T01:39:54Z" finished-at="2019-02-14T01:39:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validNewMessageTest -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.training.functional.test.CYTC_085MemberPaymentSearchTestNegative@3e6fa38a]" name="tearDown" is-config="true" duration-ms="5009" started-at="2019-02-14T01:39:55Z" finished-at="2019-02-14T01:40:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validNewMessageTest status=SUCCESS method=CYTC_085MemberPaymentSearchTestNegative.validNewMessageTest()[pri:4, instance:com.training.functional.test.CYTC_085MemberPaymentSearchTestNegative@3e6fa38a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="validSendMessageTest(java.lang.String, java.lang.String)[pri:5, instance:com.training.functional.test.CYTC_085MemberPaymentSearchTestNegative@3e6fa38a]" name="validSendMessageTest" duration-ms="599" started-at="2019-02-14T01:40:01Z" data-provider="excel-inputs" finished-at="2019-02-14T01:40:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-9876.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[welcome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validSendMessageTest -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.training.functional.test.CYTC_085MemberPaymentSearchTestNegative@3e6fa38a]" name="tearDown" is-config="true" duration-ms="5001" started-at="2019-02-14T01:40:01Z" finished-at="2019-02-14T01:40:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validSendMessageTest status=SUCCESS method=CYTC_085MemberPaymentSearchTestNegative.validSendMessageTest(java.lang.String, java.lang.String)[pri:5, instance:com.training.functional.test.CYTC_085MemberPaymentSearchTestNegative@3e6fa38a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.training.functional.test.CYTC_085MemberPaymentSearchTestNegative -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
